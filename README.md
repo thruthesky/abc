@@ -1,0 +1,2 @@
+# abc
+Wordpress simple theme
